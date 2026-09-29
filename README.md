@@ -8,7 +8,7 @@ TVAM AID provides an extensible framework for exploring how the objective functi
 
 This repository accompanies:
 
-> N. Pellizzon, R. Huber, J. Spangenberg and J. S. Jørgensen (2026) <br>
+> Nicole Pellizzon, Richard Huber, Jon Spangenberg and Jakob Sauer Jørgensen (2026) <br>
 > Systematic Analysis of Penalty-Optimised Illumination Design for Tomographic Volumetric Additive Manufacturing via the Extendable Framework TVAM AID Using the Core Imaging Library. <br>
 > Additive Manufacturing. <br>
 
